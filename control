@@ -1,0 +1,10 @@
+Package: com.blakeboxberger.dockremover
+Name: DockRemover
+Depends: mobilesubstrate
+Conflicts: com.blakeboxberger.homelist, com.blakeboxberger.homelist-demo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove the dock from your Home screen! 
+Maintainer: Blake Boxberger
+Author: Blake Boxberger
+Section: Tweaks
